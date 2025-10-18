@@ -1,0 +1,11 @@
+{
+  "name": "typescript-basics-lab",
+  "version": "1.0.0",
+  "description": "Базовий приклад TypeScript проєкту",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
